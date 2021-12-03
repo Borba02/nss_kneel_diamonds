@@ -8,7 +8,6 @@ document.addEventListener("change", (event) => {
 
 const styles = getStyles();
 
-document.addEventListener("change", (event) => {});
 
 export const JewelryStyles = () => {
   let html = "<ul>";
